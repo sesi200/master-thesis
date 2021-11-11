@@ -1,1 +1,1 @@
-# master-thesis
+This is my master thesis. The code used is https://github.com/kzl/lifelong_rl and https://github.com/siddharthverma314/clcp-neurips-2020.
